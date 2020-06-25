@@ -1,0 +1,26 @@
+.Saludo{
+	color: white;
+    font-size: 200%;
+    text-align:center;
+    margin-bottom: 10px;
+}
+html {
+        background: url(siuu/fondo.jpg) 
+        no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+}
+.Quehago{
+	color: white;
+
+}
+.hobbies{
+	color: white;
+}
+p{
+	color : blue;
+}
+
+
